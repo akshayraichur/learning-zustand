@@ -1,6 +1,7 @@
 import "./App.css";
 import Column from "./components/columns";
 
+// src/app
 function App() {
   return (
     <div className="App">
